@@ -3,7 +3,7 @@ layout: page
 title: About Hilary
 ---
 
-<p><img src="/public/hilary.webp" alt='Hilary' style="width: 300px; float: right; padding-left: 20px;" />I live between Spain and England and I adore both my countries, which is probably why they often feature in my writing. I think I must be the luckiest person on earth to live my lifestyle. I wouldn’t change places with anyone - not even the Queen of England or Posh Spice!</p>
+<p><img src="/public/images/hilary.webp" alt='Hilary' style="width: 300px; float: right; padding-left: 20px;" />I live between Spain and England and I adore both my countries, which is probably why they often feature in my writing. I think I must be the luckiest person on earth to live my lifestyle. I wouldn’t change places with anyone - not even the Queen of England or Posh Spice!</p>
 <p>I've always written. My terrible childhood diaries are excruciating and have been buried in the loft (they are never to be  let out!)</p>
 <h2>Fiction</h2>
 <p>My third book Short LOVE Stories is now available. My first book was the very successful ‘Hen Party’, which flew to the top of Waterstones online publications chart within two weeks of publication.</p>
