@@ -7,7 +7,7 @@ I live between Spain and England and I adore both my countries, which is probabl
 
 I've always written. My terrible childhood diaries are excruciating and have been buried in the loft (they are never to be  let out!)
 
-##  Fiction
+## Fiction
 My third book Short LOVE Stories is now available. My first book was the very successful ‘Hen Party’, which flew to the top of Waterstones online publications chart within two weeks of publication.
 
 ## Non Fiction
