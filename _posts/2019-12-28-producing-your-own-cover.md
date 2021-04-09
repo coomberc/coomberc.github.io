@@ -40,7 +40,7 @@ I don’t know who she thought my hubby was, and thank goodness she didn’t ask
 
 I expect you’d like to see the finished photo … yes?
 
-<img src="/public/images/cover.webp" alt='Hilary' style="width: 300px;" />
+<img src="/public/images/beyond-promises.webp" alt='Hilary' style="width: 300px;" />
 
 I choose white fonts, and I think (although I’m biased of course) that it’s all going to go together well. 
 
